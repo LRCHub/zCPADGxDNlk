@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DUNE!",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T05:59:54.869933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La France (itinéraire d'une polémique) (feat. Ici & Olivier Cachin)",
+      "artist": "Sniper",
+      "has_synced": false,
+      "path": "select/01_La_France_(itinéraire_d'une_polémique)_(feat._Ici_&_Olivier_Cachin)_Sniper.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La France (Itineraire d'une Polemique) (Feat. Cici & Olivier Cachin)",
+      "artist": "Sniper",
+      "has_synced": false,
+      "path": "select/02_La_France_(Itineraire_d'une_Polemique)_(Feat._Cici_&_Olivier_Cachin)_Sniper.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "J'avais rêvè d'une autre vie",
+      "artist": "Claude-Michel Schönberg",
+      "has_synced": true,
+      "path": "select/03_J'avais_rêvè_d'une_autre_vie_Claude-Michel_Schönberg.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "J'avais rêvé d'une autre vie",
+      "artist": "Claude‐Michel Schönberg",
+      "has_synced": true,
+      "path": "select/04_J'avais_rêvé_d'une_autre_vie_Claude‐Michel_Schönberg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dune Buggy",
+      "artist": "The Presidents of the United States of America",
+      "has_synced": true,
+      "path": "select/05_Dune_Buggy_The_Presidents_of_the_United_States_of_America.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dune",
+      "artist": "Meganoidi",
+      "has_synced": false,
+      "path": "select/06_Dune_Meganoidi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dune Mosse",
+      "artist": "Zucchero",
+      "has_synced": false,
+      "path": "select/07_Dune_Mosse_Zucchero.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dune Mosse",
+      "artist": "Zucchero with Miles Davis",
+      "has_synced": true,
+      "path": "select/08_Dune_Mosse_Zucchero_with_Miles_Davis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Je me souviens d'une chanson",
+      "artist": "Edith Piaf",
+      "has_synced": true,
+      "path": "select/09_Je_me_souviens_d'une_chanson_Edith_Piaf.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Amoureux D'une Affiche",
+      "artist": "The Primitives",
+      "has_synced": false,
+      "path": "select/10_Amoureux_D'une_Affiche_The_Primitives.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dune",
+      "artist": "Underworld",
+      "has_synced": true,
+      "path": "select/11_Dune_Underworld.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dune Mosse (With Miles Davis)",
+      "artist": "Zucchero",
+      "has_synced": true,
+      "path": "select/12_Dune_Mosse_(With_Miles_Davis)_Zucchero.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Titan Dune",
+      "artist": "Two Steps From Hell",
+      "has_synced": false,
+      "path": "select/13_Titan_Dune_Two_Steps_From_Hell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DUNE!",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_DUNE!_ピーナッツくん.txt"
+    }
+  ]
+}
